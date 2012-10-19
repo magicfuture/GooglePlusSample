@@ -1,0 +1,21 @@
+API key:	
+AIzaSyCKXUt5k-STA6PayTbFCnDq_W2Mw9X8cY8
+Referers:	
+Any referer allowed
+Activated on:	Oct 19, 2012 10:30 AM
+Activated by:	 gabeira@gmail.com – you
+
+
+Client ID for installed applications
+Client ID:	
+760537123233.apps.googleusercontent.com
+Client secret:	
+eq6o3p9RbrnoFv_KfCy0wUXe
+Redirect URIs:	urn:ietf:wg:oauth:2.0:oob
+http://localhost
+com.google.GooglePlusSample:/
+760537123233.apps.googleusercontent.com:/
+Application type:	iOS
+Bundle ID:	com.google.GooglePlusSample
+
+
